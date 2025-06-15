@@ -1,4 +1,4 @@
-# METODOLOGÍA SAPIENT-OT™ - VERSION LITE
+# METODOLOGÍA SAPIENT-OT - VERSION LITE
 
 **Safety-first Assessment Passive Intelligence Ethical Non-intrusive Testing for Operational Technology**
 
