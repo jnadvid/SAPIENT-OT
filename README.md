@@ -197,7 +197,7 @@ Químico y Petroquímico | Agua y Saneamiento | Transporte y Logística
 - Actualizaciones durante 6-24 meses
 
 
-## CONTACTO PARA ADQUISICIÓN
+## CONTACTO 
 
 **José Israel Nadal Vidal**  
 *CISO & Creador de SAPIENT-OT™*  
